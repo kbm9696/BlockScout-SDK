@@ -1,6 +1,3 @@
-Here's a README file for your BlockScout Python SDK project:
-
----
 
 # BlockScout Python SDK
 
