@@ -54,6 +54,59 @@ res = bs_optimism.get_addresses()
 bs_polygon = polygon.PolygonApi()
 bs_polygon.set_api_key_token('0x12345567')
 res = bs_polygon.get_addresses()
+
+# List of all functions to get apis all type of chanins.
+get_address_counters
+get_address_info 
+get_address_internal_txs 
+get_address_logs 
+get_address_token_transfer
+get_address_transactions
+get_address_withdrawal 
+get_addresses 
+get_block_info 
+get_block_txs 
+get_block_withdrawals 
+get_blocks 
+get_blocks_validated_by_address 
+get_coin_balance_history 
+get_coin_balance_history_by_day 
+get_indexing_status 
+get_internal_txs 
+get_json_rpc_url 
+get_list_of_NFT_by_address 
+get_list_of_NFT_collections_by_address 
+get_main_page_blocks 
+get_main_page_txs 
+get_market_charts 
+get_nft_instances 
+get_nft_instances_by_id 
+get_raw_trace 
+get_read_methods 
+get_read_methods_proxy 
+get_smart_contract 
+get_smart_contracts 
+get_state_changes 
+get_stats_counter 
+get_token_balance_for_address 
+get_token_counters 
+get_token_holders
+get_token_info 
+get_token_instance_holders 
+get_token_transfers 
+get_token_txs 
+get_tokens_list 
+get_transactions 
+get_transfer_count_of_nft_instance 
+get_transfer_of_nft_instance 
+get_txs_charts get_txs_info 
+get_txs_logs 
+get_verified_smart_contracts_counters 
+get_withdrawals 
+get_write_methods 
+get_write_methods_proxy 
+search 
+search_check_redirect 
 ```
 
 ## Supported Chains
