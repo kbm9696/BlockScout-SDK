@@ -1,7 +1,7 @@
 import requests
 
 
-class EthApi:
+class PolygonApi:
     def __init__(self):
         self.url_base = 'https://polygon.blockscout.com/api/v2/'
         self.api_key = None
